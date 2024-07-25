@@ -1,6 +1,6 @@
 # Master Spring Boot 3 & Spring Framework 6 with Java
 
-In this course on udemy created by Mr.Ranga Karanam:
+* In this course on udemy created by Mr.Ranga Karanam:
 I learnt to build a Web Application, REST API and Full Stack Application with Spring Boot and Spring Frameworks
 I mastered the fundamentals of Spring Framework from zero.
 I learnt about Auto Configuration, Spring Initializr and Starter Projects
